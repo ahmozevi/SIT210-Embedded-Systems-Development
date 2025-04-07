@@ -1,6 +1,3 @@
-// This program makes a simple window with buttons to turn LEDs on and off.
-// It uses Qt for the window and wiringPi to control GPIO pins on the Raspberry Pi.
-
 #include <QApplication>      // This lets us create a Qt application
 #include <QMainWindow>       // This is the main window class
 #include <QRadioButton>      // For selecting which LED to turn on
